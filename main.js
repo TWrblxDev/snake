@@ -258,5 +258,6 @@ modsPaths.forEach(mod => {
         });
         
         console.log('Loaded mod ' + json.name);
+        console.log('Mod Created by James Bearinger' + json.name);
     });
 });
