@@ -258,5 +258,6 @@ modsPaths.forEach(mod => {
         });
         
         console.log('Loaded mod ' + json.name);
+        console.log('[DEBUG] Mod name' + json.name 'Has been loaded and is ready.};
     });
 });
